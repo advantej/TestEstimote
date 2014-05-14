@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestEstimote</string>
+    <string name="error_bluetooth_le_unsupported">Bluetooth LE not supported</string>
+    <string name="error_bluetooth_not_enabled">Bluetooth not enabled</string>
+</resources>
